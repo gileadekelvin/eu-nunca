@@ -21,7 +21,8 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.perguntas = perguntas.sort(() => Math.random() - 0.5);
+    //this.perguntas = perguntas.sort(() => Math.random() - 0.5).slice(0, 10);
+    this.perguntas = perguntas;
     this.perguntaEscolhida = this.perguntas[0].pergunta;
     console.log(this.perguntas);
   }
