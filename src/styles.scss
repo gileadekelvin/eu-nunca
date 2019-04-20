@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:600,700");
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/bootstrap'; 
+
+body {
+    background-color: #69538E;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
