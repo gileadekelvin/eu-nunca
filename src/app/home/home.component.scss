@@ -4,7 +4,14 @@ h1, h2, h5 {
 
 h1 {
     font-family: 'Gloria Hallelujah', cursive;
-    font-size: 45px;
+    font-size: 40px;
+}
+
+.navbar-default {
+    color: #FFFFFF;
+    background-color: none;    
+    display: flex;
+    justify-content: center;    
 }
 
 .card-title {
