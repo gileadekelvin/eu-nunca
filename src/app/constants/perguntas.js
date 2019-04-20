@@ -1,5 +1,9 @@
 export const perguntas = [
   {
+    id: 0,
+    pergunta: 'respirei... Todos bebem!'
+  },
+  {
     id: 1,
     pergunta: 'beijei alguém do mesmo sexo'
   },
@@ -121,7 +125,7 @@ export const perguntas = [
   },
   {
     id: 31,
-    pergunta: 'vi porno'
+    pergunta: 'vi pornô'
   },
   {
     id: 32,
@@ -214,5 +218,17 @@ export const perguntas = [
   {
     id: 54,
     pergunta: 'tomei banho com outra pessoa'
-  }
+  },
+  {
+    id: 55,
+    pergunta: 'nasci... Todos bebem!'
+  },
+  {
+    id: 56,
+    pergunta: 'bebi... Todos bebem!'
+  },
+  {
+    id: 57,
+    pergunta: 'respirei... Todos bebem!'
+  },
 ]

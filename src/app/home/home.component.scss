@@ -20,7 +20,9 @@ h1 {
 .card-body {
     display: flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
+    word-break: break-word;
+    word-wrap: break-word;    
 }
 
 .final {
